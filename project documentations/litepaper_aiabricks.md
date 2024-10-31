@@ -1,13 +1,13 @@
-# **AIABricks Litepaper**
+# **briXchange Litepaper**
 
 ## **Title**
-**AIABricks**: "Invest Smart, Own a Part"
+**briXchange**: "Invest Smart, Own a Part"
 
 ---
 
 ## **Introduction**
 
-Real estate, traditionally one of the most lucrative investment avenues, is often perceived as an exclusive domain due to its high entry barriers, inefficiencies, and opaque processes. The global real estate market, valued at $4016.66 billion in 2023, continues to grow, yet remains inaccessible to a large segment of potential investors. With the advent of blockchain technology, AIABricks seeks to transform this landscape by democratizing real estate investment, reducing transaction costs, and enhancing transparency. Our platform leverages blockchain to tokenize real estate, enabling fractional ownership and direct transactions, thus opening up opportunities for investors of all scales.
+Real estate, traditionally one of the most lucrative investment avenues, is often perceived as an exclusive domain due to its high entry barriers, inefficiencies, and opaque processes. The global real estate market, valued at $4016.66 billion in 2023, continues to grow, yet remains inaccessible to a large segment of potential investors. With the advent of blockchain technology, briXchange seeks to transform this landscape by democratizing real estate investment, reducing transaction costs, and enhancing transparency. Our platform leverages blockchain to tokenize real estate, enabling fractional ownership and direct transactions, thus opening up opportunities for investors of all scales.
 
 ---
 
@@ -25,31 +25,31 @@ Real estate, traditionally one of the most lucrative investment avenues, is ofte
 
 ---
 
-## **The AIABricks Solution**
+## **The briXchange Solution**
 
 ### **Redefining Real Estate with Blockchain**
 
-AIABricks is an innovative platform that integrates blockchain technology to address the inefficiencies of the traditional real estate market. Our solution is designed to be transparent, cost-effective, and accessible, providing a secure and seamless experience for buyers, sellers, and investors alike.
+briXchange is an innovative platform that integrates blockchain technology to address the inefficiencies of the traditional real estate market. Our solution is designed to be transparent, cost-effective, and accessible, providing a secure and seamless experience for buyers, sellers, and investors alike.
 
 ### **Key Features**
 
 1. **Direct Buyer-Seller Interaction**:
-   - By eliminating intermediaries, AIABricks reduces transaction costs and expedites processes. Buyers and sellers can interact directly, ensuring clear communication and negotiations.
+   - By eliminating intermediaries, briXchange reduces transaction costs and expedites processes. Buyers and sellers can interact directly, ensuring clear communication and negotiations.
 
 2. **Blockchain-Verified Listings**:
-   - Every property listed on AIABricks is verified on the blockchain, ensuring that all information is transparent, immutable, and secure. This process includes the integration of Encumbrance Certificates (EC) to validate property ownership and prevent disputes.
+   - Every property listed on briXchange is verified on the blockchain, ensuring that all information is transparent, immutable, and secure. This process includes the integration of Encumbrance Certificates (EC) to validate property ownership and prevent disputes.
 
 3. **Smart Contracts**:
-   - Transactions on AIABricks are governed by smart contracts, which autoGASally execute agreements based on predefined conditions. This not only speeds up transactions but also minimizes human errors and ensures compliance with agreed-upon terms.
+   - Transactions on briXchange are governed by smart contracts, which autoGASally execute agreements based on predefined conditions. This not only speeds up transactions but also minimizes human errors and ensures compliance with agreed-upon terms.
 
 4. **Tokenization of Real Estate**:
-   - AIABricks enables the tokenization of real estate assets, allowing for fractional ownership. This lowers the barrier to entry for investors, making real estate investment more inclusive and accessible to a global audience.
+   - briXchange enables the tokenization of real estate assets, allowing for fractional ownership. This lowers the barrier to entry for investors, making real estate investment more inclusive and accessible to a global audience.
 
 5. **AI-Driven Property Search**:
-   - Our AI algorithms are designed to provide personalized property recommendations, enhancing the user experience. By analyzing user preferences and market trends, AIABricks helps buyers find properties that best match their criteria.
+   - Our AI algorithms are designed to provide personalized property recommendations, enhancing the user experience. By analyzing user preferences and market trends, briXchange helps buyers find properties that best match their criteria.
 
 6. **Anon Aadhaar Integration**:
-   - Security and privacy are paramount on AIABricks. Our platform integrates Anon Aadhaar, a privacy-preserving user verification system, to ensure that all users are legitimate while protecting their personal information. This feature prevents fraud, spam, and the creation of bot accounts.
+   - Security and privacy are paramount on briXchange. Our platform integrates Anon Aadhaar, a privacy-preserving user verification system, to ensure that all users are legitimate while protecting their personal information. This feature prevents fraud, spam, and the creation of bot accounts.
 
 ---
 
@@ -63,14 +63,14 @@ The global real estate market presents a significant opportunity for innovation:
 
 - **Blockchain Adoption**: As the benefits of blockchain technology become increasingly recognized, its adoption in the real estate sector is expected to grow by 40% by 2025.
 
-- **Target Audience**: AIABricks is designed for a diverse audience, including real estate investors, buyers, sellers, developers, and smaller investors looking for more accessible entry points into the market.
+- **Target Audience**: briXchange is designed for a diverse audience, including real estate investors, buyers, sellers, developers, and smaller investors looking for more accessible entry points into the market.
 
 ---
 
-## **How AIABricks Works**
+## **How briXchange Works**
 
 ### **1. Property Listing**
-   - Sellers create property listings on AIABricks by submitting detailed information and required documents, including Encumbrance Certificates. These listings are then verified on the blockchain, ensuring their authenticity and security.
+   - Sellers create property listings on briXchange by submitting detailed information and required documents, including Encumbrance Certificates. These listings are then verified on the blockchain, ensuring their authenticity and security.
 
 ### **2. Buyer Interaction**
    - Buyers browse through the blockchain-verified listings using AI-driven search tools that match properties to their specific preferences. The platform facilitates direct communication between buyers and sellers, enabling transparent negotiations.
@@ -87,7 +87,7 @@ The global real estate market presents a significant opportunity for innovation:
 
 ### **Leveraging Advanced Technologies for a Secure and Scalable Platform**
 
-AIABricks’s technological infrastructure is designed to provide a robust, secure, and user-friendly experience:
+briXchange’s technological infrastructure is designed to provide a robust, secure, and user-friendly experience:
 
 - **Blockchain Platform**: We utilize Ethereum/Polygon for decentralized transaction processing, ensuring security, transparency, and immutability.
 
@@ -103,13 +103,13 @@ AIABricks’s technological infrastructure is designed to provide a robust, secu
 
 ### **Sustainable Revenue Streams and Scalable Growth**
 
-AIABricks operates on a multi-faceted business model designed to ensure sustainability and scalability:
+briXchange operates on a multi-faceted business model designed to ensure sustainability and scalability:
 
 - **Transaction Fees**: A small percentage fee is charged on every transaction conducted on the platform, generating consistent revenue.
 
 - **Premium Listings**: Sellers can opt for premium listing services that offer enhanced visibility and reach for their properties.
 
-- **Token Sale**: AIABricks generates revenue through the sale of real estate tokens to investors, providing liquidity to the platform.
+- **Token Sale**: briXchange generates revenue through the sale of real estate tokens to investors, providing liquidity to the platform.
 
 - **Subscription Model**: Users can subscribe to premium features, including advanced analytics, AI-driven recommendations, and enhanced security features, on a monthly or yearly basis.
 
@@ -119,7 +119,7 @@ AIABricks operates on a multi-faceted business model designed to ensure sustaina
 
 ### **Strategic Development and Expansion Plan**
 
-AIABricks has outlined a clear roadmap for its development and growth:
+briXchange has outlined a clear roadmap for its development and growth:
 
 #### **2024 Q1 - Q2**: Platform Development and Beta Launch
    - Complete platform development, conduct extensive beta testing, and launch in key urban markets (July - October 2024).
@@ -131,13 +131,13 @@ AIABricks has outlined a clear roadmap for its development and growth:
    - Implement the tokenization of properties and enable fractional ownership, broadening investment opportunities (February - June 2025).
 
 #### **2025 Q3 - Q4**: Begin Global Expansion
-   - Start the global expansion of AIABricks by onboarding international real estate properties and entering new markets (July 2025 onwards).
+   - Start the global expansion of briXchange by onboarding international real estate properties and entering new markets (July 2025 onwards).
 
 ---
 
 ## **Team**
 
-### **The Minds Behind AIABricks**
+### **The Minds Behind briXchange**
 
 Our team consists of seasoned professionals with a wealth of experience in blockchain, real estate, and technology:
 
@@ -153,7 +153,7 @@ Our team consists of seasoned professionals with a wealth of experience in block
 
 ### **Early Success and Positive Feedback**
 
-AIABricks has already garnered significant interest and positive feedback in its beta phase:
+briXchange has already garnered significant interest and positive feedback in its beta phase:
 
 - **Beta Users**: We have onboarded 13 beta users who have provided valuable feedback, highlighting the platform's potential and identifying areas for improvement.
 
@@ -161,9 +161,9 @@ AIABricks has already garnered significant interest and positive feedback in its
 
 ## **Funding & Use of Funds**
 
-### **Investing in AIABricks's Growth**
+### **Investing in briXchange's Growth**
 
-AIABricks is seeking $400 in funding to support the following initiatives:
+briXchange is seeking $400 in funding to support the following initiatives:
 
 - **Deployment on Mainnet**: Secure and reliable launch of the platform on the Ethereum/Polygon mainnet, ensuring scalability and security.
   
@@ -177,9 +177,9 @@ AIABricks is seeking $400 in funding to support the following initiatives:
 
 ## **Conclusion**
 
-### **Why AIABricks?**
+### **Why briXchange?**
 
-AIABricks is positioned to be a game-changer in the real estate industry by addressing the critical challenges of high costs, lack of transparency, and limited accessibility. By leveraging blockchain, AI, and smart contracts, AIABricks offers a secure, efficient, and democratic platform that opens up real estate investment to a global audience. With a clear vision, a dedicated team, and a solid business model, AIABricks is ready to lead the next wave of innovation in real estate.
+briXchange is positioned to be a game-changer in the real estate industry by addressing the critical challenges of high costs, lack of transparency, and limited accessibility. By leveraging blockchain, AI, and smart contracts, briXchange offers a secure, efficient, and democratic platform that opens up real estate investment to a global audience. With a clear vision, a dedicated team, and a solid business model, briXchange is ready to lead the next wave of innovation in real estate.
 
 ---
 

@@ -114,7 +114,7 @@ export default function AadhaarVerification({ onVerified }) {
               gutterBottom
               sx={{ color: "primary.main" }}
             >
-              AIABricks
+              briXchange
             </Typography>
             <Typography variant="h5" sx={{ color: "secondary.main", mb: 5 }}>
               Your Gateway to Smart Real Estate Deals
@@ -202,13 +202,13 @@ export default function AadhaarVerification({ onVerified }) {
           mt="auto"
         >
           <Typography variant="body1" sx={{ fontSize: "1.2rem" }}>
-            © {new Date().getFullYear()} AIABricks. All rights reserved.
+            © {new Date().getFullYear()} briXchange. All rights reserved.
           </Typography>
           <Button
             variant="outlined"
             color="primary"
             startIcon={<GitHubIcon />}
-            href="https://github.com/dishadaniellol/AIABricks"
+            href="https://github.com/dishadaniellol/briXchange"
             target="_blank"
             rel="noopener noreferrer"
             sx={{
@@ -220,7 +220,7 @@ export default function AadhaarVerification({ onVerified }) {
               },
             }}
           >
-            AIABricks - GitHub
+            briXchange - GitHub
           </Button>
         </Box>
       </Box>

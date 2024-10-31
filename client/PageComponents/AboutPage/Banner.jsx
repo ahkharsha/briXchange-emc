@@ -87,7 +87,7 @@ const Banner = () => {
                       data-sal-duration="800"
                       data-sal-delay="150"
                     >
-                      At AIABricks, we're committed to supporting your growth at every step of your journey. Our platform provides the tools, resources, and community you need to thrive in the dynamic world of NFTs. Whether you're a creator, collector, or enthusiast, we're here to help you navigate and succeed in this exciting digital landscape.
+                      At briXchange, we're committed to supporting your growth at every step of your journey. Our platform provides the tools, resources, and community you need to thrive in the dynamic world of NFTs. Whether you're a creator, collector, or enthusiast, we're here to help you navigate and succeed in this exciting digital landscape.
                     </p>
                   </div>
                 </div>

@@ -8,7 +8,7 @@ const SwapMain = () => {
   return (
     <div className="flex flex-col items-center justify-center min-h-screen bg-transparent text-white px-4 sm:px-6 lg:px-8">
       <h1 className="text-5xl font-extrabold tracking-tight leading-none text-center mb-6 md:text-6xl lg:text-7xl">
-        AIABricks Swap
+        briXchange Swap
       </h1>
       <p className="max-w-3xl text-center mb-10 text-xl font-normal lg:text-2xl leading-relaxed">
         Swap your tokens effortlessly on the Polygon blockchain using EMC. 

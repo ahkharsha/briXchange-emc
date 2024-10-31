@@ -1,8 +1,8 @@
-# **AIABricks Tokenomics**
+# **briXchange Tokenomics**
 
 ## **1. Introduction**
 
-As **AIABricks** continues to develop and move towards full-scale implementation, the tokenomics structure will be crucial to its success. By utilizing the **EMC** token on the Polygon blockchain, **AIABricks** will create an efficient, scalable, and secure ecosystem that incentivizes participation, facilitates transactions, and ensures long-term sustainability.
+As **briXchange** continues to develop and move towards full-scale implementation, the tokenomics structure will be crucial to its success. By utilizing the **EMC** token on the Polygon blockchain, **briXchange** will create an efficient, scalable, and secure ecosystem that incentivizes participation, facilitates transactions, and ensures long-term sustainability.
 
 ---
 
@@ -41,11 +41,11 @@ The **EMC** token will be allocated to ensure a balanced ecosystem that rewards 
 
 ## **4. Utility and Use Cases**
 
-The **EMC** token will be central to the functionality and governance of the **AIABricks** platform:
+The **EMC** token will be central to the functionality and governance of the **briXchange** platform:
 
 ### **4.1 Transaction Fees**
 
-- **Transaction Costs**: All transactions conducted on the **AIABricks** platform will require **EMC** tokens, ensuring that users are actively engaged in the ecosystem.
+- **Transaction Costs**: All transactions conducted on the **briXchange** platform will require **EMC** tokens, ensuring that users are actively engaged in the ecosystem.
 - **Fee Reduction**: Users who hold and use **EMC** tokens for transaction fees will be eligible for discounts, encouraging widespread adoption and utility.
 
 ### **4.2 Property Tokenization**
@@ -67,7 +67,7 @@ The **EMC** token will be central to the functionality and governance of the **A
 
 ## **5. Vesting and Release Schedule**
 
-To ensure the long-term viability of **AIABricks**, the distribution of **EMC** tokens will be carefully managed:
+To ensure the long-term viability of **briXchange**, the distribution of **EMC** tokens will be carefully managed:
 
 ### **5.1 Vesting Period for Team and Advisors**
 
@@ -79,7 +79,7 @@ To ensure the long-term viability of **AIABricks**, the distribution of **EMC** 
   - Tokens will be released to early investors and contributors, providing initial liquidity and funding for the platform’s development.
   
 - **Phase 2**: Platform Launch (25%)
-  - A portion of the tokens will be released to support the official launch of **AIABricks**, with allocations for staking, rewards, and ecosystem growth.
+  - A portion of the tokens will be released to support the official launch of **briXchange**, with allocations for staking, rewards, and ecosystem growth.
 
 - **Phase 3**: Post-Launch Expansion (60%)
   - The remaining tokens will be gradually released over the next 3-5 years, supporting platform expansion, new features, and continued growth.
@@ -88,7 +88,7 @@ To ensure the long-term viability of **AIABricks**, the distribution of **EMC** 
 
 ## **6. Token Sale Strategy**
 
-**AIABricks** will conduct a token sale to raise funds for the platform’s development and growth:
+**briXchange** will conduct a token sale to raise funds for the platform’s development and growth:
 
 ### **6.1 Private Sale**
 
@@ -97,12 +97,12 @@ To ensure the long-term viability of **AIABricks**, the distribution of **EMC** 
 
 ### **6.2 Public Sale**
 
-- **Availability**: Open to the broader public, allowing widespread participation in the **AIABricks** ecosystem.
+- **Availability**: Open to the broader public, allowing widespread participation in the **briXchange** ecosystem.
 - **Pricing**: **EMC** tokens will be offered at a fixed price, with bonuses for early contributors.
 
 ### **6.3 Use of Funds**
 
-- **Development**: Funds raised will be used to complete the development of the **AIABricks** platform, including security audits, UI/UX improvements, and feature enhancements.
+- **Development**: Funds raised will be used to complete the development of the **briXchange** platform, including security audits, UI/UX improvements, and feature enhancements.
 - **Marketing**: A portion of the funds will be allocated to marketing efforts, driving user adoption and ecosystem growth.
 - **Operations**: Remaining funds will support ongoing operations, ensuring that the platform can scale effectively.
 
@@ -110,9 +110,9 @@ To ensure the long-term viability of **AIABricks**, the distribution of **EMC** 
 
 ## **7. Future Developments**
 
-As **AIABricks** evolves, the tokenomics structure will be revisited to ensure alignment with the platform’s goals and the needs of its users. Potential future developments include:
+As **briXchange** evolves, the tokenomics structure will be revisited to ensure alignment with the platform’s goals and the needs of its users. Potential future developments include:
 
-- **DeFi Integrations**: Exploring opportunities to integrate **AIABricks** with decentralized finance (DeFi) platforms, allowing users to leverage their **EMC** tokens for lending, borrowing, and yield farming.
+- **DeFi Integrations**: Exploring opportunities to integrate **briXchange** with decentralized finance (DeFi) platforms, allowing users to leverage their **EMC** tokens for lending, borrowing, and yield farming.
 - **Cross-Chain Compatibility**: Expanding the utility of **EMC** tokens by enabling cross-chain functionality, allowing them to be used on other blockchain networks.
 - **Enhanced Staking Mechanisms**: Introducing new staking models that offer additional rewards and incentives for long-term holders.
 
@@ -120,5 +120,5 @@ As **AIABricks** evolves, the tokenomics structure will be revisited to ensure a
 
 ## **8. Conclusion**
 
-The tokenomics of **AIABricks** is designed to create a sustainable and thriving ecosystem that benefits all participants. By leveraging the power of the Polygon blockchain and the utility of the **EMC** token, **AIABricks** will empower users to engage in secure, transparent, and efficient real estate transactions, while also providing opportunities for governance, staking, and fractional ownership.
+The tokenomics of **briXchange** is designed to create a sustainable and thriving ecosystem that benefits all participants. By leveraging the power of the Polygon blockchain and the utility of the **EMC** token, **briXchange** will empower users to engage in secure, transparent, and efficient real estate transactions, while also providing opportunities for governance, staking, and fractional ownership.
 

@@ -1,21 +1,21 @@
-# 🏢 **AIABricks** - Invest Smart, Own a Part
+# 🏢 **briXchange** - Invest Smart, Own a Part
 
-[![Deployment Status](https://img.shields.io/badge/Deployment-Live-brightgreen)](https://aia-bricks.vercel.app/)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/dishadaniellol/AIABricks)
+[![Deployment Status](https://img.shields.io/badge/Deployment-Live-brightgreen)](https://briXchange-emc.vercel.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/ahkharsha/briXchange-emc)
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue)](https://www.linkedin.com/in/harsha-kumar-a-271a76203/)
 
 <img src="https://github.com/user-attachments/assets/1cbac393-80d1-431a-8d0a-fe2255f1bcf5" alt="logo-white" width="40"/>
 
 ---
 
-AIABricks is an innovative blockchain-powered platform designed to revolutionize real estate investments by enabling users to tokenize, trade, and invest in real estate assets with EMC tokens. Built on transparency, security, and ease, AIABricks brings property investments into the decentralized era.
+briXchange is an innovative blockchain-powered platform designed to revolutionize real estate investments by enabling users to tokenize, trade, and invest in real estate assets with EMC tokens. Built on transparency, security, and ease, briXchange brings property investments into the decentralized era.
 
 ---
 
 ## 🚀 **Deployment**
 
 The platform is live and can be accessed at:  
-<br>**🔗 [AIABricks Testnet (Deployed) - aia-bricks.vercel.app](https://aia-bricks.vercel.app/)**<br><br>
+<br>**🔗 [briXchange Testnet (Deployed) - briXchange-emc.vercel.app](https://briXchange-emc.vercel.app/)**<br><br>
 
 ---
 
@@ -24,7 +24,7 @@ The platform is live and can be accessed at:
 The Smart Contract is deployed on the EMC Testnet T4 at [0xF859e215A276EC632Fb46DCca4EbccF99C8993D2](https://testnet.aiascan.com/address/0xF859e215A276EC632Fb46DCca4EbccF99C8993D2).  
 Visit the link below to view it on the explorer!
 
-**🔗 [AIABricks Smart Contract](https://testnet.aiascan.com/address/0xF859e215A276EC632Fb46DCca4EbccF99C8993D2)**
+**🔗 [briXchange Smart Contract](https://testnet.aiascan.com/address/0xF859e215A276EC632Fb46DCca4EbccF99C8993D2)**
 
 ---
 
@@ -55,7 +55,7 @@ Visit the link below to view it on the explorer!
 
 ## 🎯 **Project Vision**
 
-Our vision is to democratize real estate investment by leveraging blockchain technology. **AIABricks** enables anyone to participate in property investments with fractional ownership, ensuring inclusivity and transparency in every transaction.
+Our vision is to democratize real estate investment by leveraging blockchain technology. **briXchange** enables anyone to participate in property investments with fractional ownership, ensuring inclusivity and transparency in every transaction.
 
 ---
 
@@ -77,8 +77,8 @@ Our vision is to democratize real estate investment by leveraging blockchain tec
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/dishadaniellol/AIABricks.git
-    cd AIABricks
+    git clone https://github.com/ahkharsha/briXchange-emc.git
+    cd briXchange
     ```
 
 2. **Navigating to client**
@@ -148,7 +148,7 @@ Your application will be up and running at `http://localhost:3000` 🚀
 
 ## 📜 **License**
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/dishadaniellol/AIABricks/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/ahkharsha/briXchange-emc/blob/main/LICENSE) file for details.
 
 ---
 
@@ -158,7 +158,7 @@ For any inquiries or support, feel free to reach out:
 
 - **Email**: [ahkharsha@gmail.com](mailto:ahkharsha@gmail.com)
 - **LinkedIn**: [Harsha Kumar](https://www.linkedin.com/in/harsha-kumar-a-271a76203/)
-- **Project Website**: [AIABricks](https://aia-bricks.vercel.app/)
+- **Project Website**: [briXchange](https://briXchange-emc.vercel.app/)
 
 ---
 
