@@ -1,6 +1,6 @@
 # 🏢 **briXchange** - Invest Smart, Own a Part
 
-[![Deployment Status](https://img.shields.io/badge/Deployment-Live-brightgreen)](https://briXchange-emc.vercel.app/)
+[![Deployment Status](https://img.shields.io/badge/Deployment-Live-brightgreen)](https://brixchange-emc.vercel.app/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/ahkharsha/briXchange-emc)
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue)](https://www.linkedin.com/in/harsha-kumar-a-271a76203/)
 
@@ -15,7 +15,7 @@ briXchange is an innovative blockchain-powered platform designed to revolutioniz
 ## 🚀 **Deployment**
 
 The platform is live and can be accessed at:  
-<br>**🔗 [briXchange Testnet (Deployed) - briXchange-emc.vercel.app](https://briXchange-emc.vercel.app/)**<br><br>
+<br>**🔗 [briXchange Testnet (Deployed) - briXchange-emc.vercel.app](https://brixchange-emc.vercel.app/)**<br><br>
 
 ---
 
@@ -158,7 +158,7 @@ For any inquiries or support, feel free to reach out:
 
 - **Email**: [ahkharsha@gmail.com](mailto:ahkharsha@gmail.com)
 - **LinkedIn**: [Harsha Kumar](https://www.linkedin.com/in/harsha-kumar-a-271a76203/)
-- **Project Website**: [briXchange](https://briXchange-emc.vercel.app/)
+- **Project Website**: [briXchange](https://brixchange-emc.vercel.app/)
 
 ---
 
