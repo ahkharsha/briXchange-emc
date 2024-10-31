@@ -21,10 +21,10 @@ The platform is live and can be accessed at:
 
 ## 📜 **Smart Contract**
 
-The Smart Contract is deployed on the EMC Testnet T4 at [0xF859e215A276EC632Fb46DCca4EbccF99C8993D2](https://testnet.aiascan.com/address/0xF859e215A276EC632Fb46DCca4EbccF99C8993D2).  
+The Smart Contract is deployed on the EMC Testnet at [0xb06cbBeAE36EdBa7a14D733E8aE922a29630c7C1](https://testnet.emcscan.com/address/0xb06cbBeAE36EdBa7a14D733E8aE922a29630c7C1).  
 Visit the link below to view it on the explorer!
 
-**🔗 [briXchange Smart Contract](https://testnet.aiascan.com/address/0xF859e215A276EC632Fb46DCca4EbccF99C8993D2)**
+**🔗 [briXchange Smart Contract](https://testnet.emcscan.com/address/0xb06cbBeAE36EdBa7a14D733E8aE922a29630c7C1)**
 
 ---
 
