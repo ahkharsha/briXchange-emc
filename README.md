@@ -152,6 +152,13 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
 
 ---
 
+## 📄 **Documentation**
+
+For more detailed information, please refer to the project whitepaper, deck, litepaper, and tokenomics:  
+**📄 [briXchange Documents](https://drive.google.com/drive/folders/1ODP94gAPnyc7YMnvwqlmDQVRu-kq0Iue)**
+
+---
+
 ## 📞 **Contact**
 
 For any inquiries or support, feel free to reach out:
