@@ -208,7 +208,7 @@ export default function AadhaarVerification({ onVerified }) {
             variant="outlined"
             color="primary"
             startIcon={<GitHubIcon />}
-            href="https://github.com/dishadaniellol/briXchange"
+            href="https://github.com/ahkharsha/briXchange-emc"
             target="_blank"
             rel="noopener noreferrer"
             sx={{
