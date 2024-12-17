@@ -21,10 +21,10 @@ The platform is live and can be accessed at:
 
 ## 📜 **Smart Contract**
 
-The Smart Contract is deployed on the EMC Testnet at [0xb06cbBeAE36EdBa7a14D733E8aE922a29630c7C1](https://testnet.emcscan.com/address/0xb06cbBeAE36EdBa7a14D733E8aE922a29630c7C1).  
+The Smart Contract is deployed on the EMC Testnet at [0x73641118e93Be1Ed8cE170E17E564Fa76b43a8fb](https://sepolia.emcscan.com/address/0x73641118e93Be1Ed8cE170E17E564Fa76b43a8fb).  
 Visit the link below to view it on the explorer!
 
-**🔗 [briXchange Smart Contract](https://testnet.emcscan.com/address/0xb06cbBeAE36EdBa7a14D733E8aE922a29630c7C1)**
+**🔗 [briXchange Smart Contract](https://sepolia.emcscan.com/address/0x73641118e93Be1Ed8cE170E17E564Fa76b43a8fb)**
 
 ---
 
