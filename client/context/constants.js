@@ -28,8 +28,8 @@ const networks = {
       symbol: "EMC",
       decimals: 18,
     },
-    rpcUrls: ["https://rpc1-testnet.emc.network"],
-    blockExplorerUrls: ["https://testnet.emcscan.com"],
+    rpcUrls: ["https://rpc1-sepolia.emc.network/"],
+    blockExplorerUrls: ["https://sepolia.emcscan.com/"],
   },
   localhost: {
     chainId: `0x${Number(31337).toString(16)}`,
@@ -40,7 +40,7 @@ const networks = {
       decimals: 18,
     },
     rpcUrls: ["http://127.0.0.1:8545/"],
-    blockExplorerUrls: ["https://bscscan.com"],
+    blockExplorerUrls: ["https://sepolia.emcscan.com/"],
   },
 };
 
