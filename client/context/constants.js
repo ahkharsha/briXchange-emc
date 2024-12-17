@@ -1,8 +1,7 @@
 import realEstate from "./RealEstate.json";
 require("dotenv").config();
 
-// export const REAL_ESTATE_ADDRESS = "0xb06cbBeAE36EdBa7a14D733E8aE922a29630c7C1";
-export const REAL_ESTATE_ADDRESS = "0x73641118e93Be1Ed8cE170E17E564Fa76b43a8fb"
+export const REAL_ESTATE_ADDRESS = "0xb06cbBeAE36EdBa7a14D733E8aE922a29630c7C1";
 export const REAL_ESTATE_ABI = realEstate.abi;
 
 export const PINATA_API_KEY = "da212708ca61ceb1b91d";
@@ -43,17 +42,6 @@ const networks = {
     rpcUrls: ["http://127.0.0.1:8545/"],
     blockExplorerUrls: ["https://bscscan.com"],
   },
-  neox_testnet: {
-    chainId: `0x${Number(12227332).toString(16)}`,
-    chainName: "NeoX Testnet T4",
-    nativeCurrency: {
-      name: "NeoX",
-      symbol: "GAS",
-      decimals: 18,
-    },
-    rpcUrls: ["https://12227332.rpc.thirdweb.com"],
-    blockExplorerUrls: ["https://xexplorer.neo.org/"],
-  },
 };
 
 const changeNetwork = async ({ networkName }) => {
@@ -72,10 +60,10 @@ const changeNetwork = async ({ networkName }) => {
   }
 };
 
-export const ACTIVE_NETWORK = "neox_testnet";
+export const ACTIVE_NETWORK = "emc_testnet";
 
 export const handleNetworkSwitch = async () => {
-  const networkName = "neox_testnet";
+  const networkName = "emc_testnet";
   const network = await changeNetwork({ networkName });
   return networkName;
 };
