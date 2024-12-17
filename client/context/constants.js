@@ -21,7 +21,7 @@ const networks = {
   //   blockExplorerUrls: Waiting for launch...,
   // },
   emc_testnet: {
-    chainId: `0x${Number(99876).toString(16)}`,
+    chainId: `0x${Number(99879).toString(16)}`,
     chainName: "EMC Testnet",
     nativeCurrency: {
       name: "EMC",
@@ -35,8 +35,8 @@ const networks = {
     chainId: `0x${Number(31337).toString(16)}`,
     chainName: "localhost",
     nativeCurrency: {
-      name: "GO",
-      symbol: "GO",
+      name: "EMC",
+      symbol: "EMC",
       decimals: 18,
     },
     rpcUrls: ["http://127.0.0.1:8545/"],
