@@ -15,16 +15,16 @@ briXchange is an innovative blockchain-powered platform designed to revolutioniz
 ## 🚀 **Deployment**
 
 The platform is live and can be accessed at:  
-<br>**🔗 [briXchange Testnet (Deployed) - briXchange-emc.vercel.app](https://brixchange-emc.vercel.app/)**<br><br>
+<br>**🔗 [briXchange Mainnet (Deployed) - briXchange-emc.vercel.app](https://brixchange-emc.vercel.app/)**<br><br>
 
 ---
 
 ## 📜 **Smart Contract**
 
-The Smart Contract is deployed on the EMC Testnet at [0x73641118e93Be1Ed8cE170E17E564Fa76b43a8fb](https://sepolia.emcscan.com/address/0x73641118e93Be1Ed8cE170E17E564Fa76b43a8fb).  
+The Smart Contract is deployed on the EMC Mainnet at [0xFc9ECfbd32F9dcC19645e6B591975942bff4Aad0](https://emcscan.com/address/0xFc9ECfbd32F9dcC19645e6B591975942bff4Aad0).  
 Visit the link below to view it on the explorer!
 
-**🔗 [briXchange Smart Contract](https://sepolia.emcscan.com/address/0x73641118e93Be1Ed8cE170E17E564Fa76b43a8fb)**
+**🔗 [briXchange Smart Contract](https://emcscan.com/address/0xFc9ECfbd32F9dcC19645e6B591975942bff4Aad0)**
 
 ---
 
@@ -61,7 +61,7 @@ Our vision is to democratize real estate investment by leveraging blockchain tec
 
 ## ⚙️ **Technologies Used**
 
-- **Blockchain**: EMC Testnet
+- **Blockchain**: EMC Mainnet
 - **Token**: EMC
 - **Smart Contracts**: Solidity
 - **Frontend**: Next.js, CSS
@@ -114,7 +114,7 @@ Your application will be up and running at `http://localhost:3000` 🚀
 
 ### **3. Conduct Transactions**
 
-- Buy and sell fractional property tokens using EMC on the EMC Testnet T4.
+- Buy and sell fractional property tokens using EMC on the EMC Mainnet.
 - Enjoy low transaction fees and fast confirmation times.
 
 ### **4. Staking and Rewards**
@@ -140,7 +140,7 @@ Your application will be up and running at `http://localhost:3000` 🚀
 
 ### **Phase 3: Public Launch**
 
-- ⬜ Deploy on EMC Mainnet
+- ✅ Deploy on EMC Mainnet
 - ⬜ Launch marketing campaign
 - ⬜ Introduce staking and rewards features
 
